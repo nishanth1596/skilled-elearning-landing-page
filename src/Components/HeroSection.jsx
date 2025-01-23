@@ -8,7 +8,7 @@ const HeroSection = () => {
         <h1 className="text-fs-2 font-normal leading-120% md:text-fs-2 md:font-extrabold xl:text-fs-1 xl:font-bold">
           Maximize skill, minimize budget
         </h1>
-        <h2 className="sr-only"></h2>
+        <h2 className="sr-only">E-learning</h2>
         <p className="mt-6 text-lg font-medium leading-150% text-grey xl:max-w-md">
           Our modern courses across a range of in-demand skills will give you
           the knowledge you need to live the life you want.
