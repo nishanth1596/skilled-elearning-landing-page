@@ -36,5 +36,3 @@ export const productData = [
     logo: businessLogo,
   },
 ];
-
-// Check out our most popular courses!
