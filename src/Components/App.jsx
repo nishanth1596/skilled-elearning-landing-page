@@ -10,8 +10,7 @@ const App = () => {
       <div className="relative max-w-[23.44rem] md:max-w-3xl xl:max-w-[90rem]">
         <Header />
         <Main />
-        <Footer />
-        <figure>
+        <section>
           <img
             className="absolute -top-[6rem] left-[25rem] -z-50 hidden md:block lg:hidden"
             src={heroImgTablet}
@@ -27,7 +26,8 @@ const App = () => {
           <figcaption>
             A woman learning from her laptop while having a hot coffee
           </figcaption>
-        </figure>
+        </section>
+        <Footer />
       </div>
     </div>
   );
